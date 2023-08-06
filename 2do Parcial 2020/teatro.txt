@@ -1,0 +1,3 @@
+123+Luna Park+Avenida Corrientes+20000
+232+Gran Rex+Avenida Corrientes+20000
+12+Guimeres+Avenida Corrientes+20000

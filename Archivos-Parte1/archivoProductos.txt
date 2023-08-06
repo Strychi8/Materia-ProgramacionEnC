@@ -1,0 +1,4 @@
+200.00;tomates
+200.00;bananas
+200.00;naranjas
+130.00;duraznos

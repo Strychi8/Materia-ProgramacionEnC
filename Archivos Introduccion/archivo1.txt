@@ -1,0 +1,4 @@
+
+Puntaje del Jugador: 10.00
+Nombre y Apellido: Santiago Veliz
+DNI: 42999222
